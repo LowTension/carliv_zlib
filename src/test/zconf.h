@@ -1,1 +1,1 @@
-/home/carliv/GITHUB/REPO/zlib/src/zconf.h
+../src/zconf.h
