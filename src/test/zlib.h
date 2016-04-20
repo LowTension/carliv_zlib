@@ -1,1 +1,1 @@
-/home/carliv/GITHUB/REPO/zlib/src/zlib.h
+../zlib.h
