@@ -1,1 +1,1 @@
-../src/zconf.h
+../zconf.h
